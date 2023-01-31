@@ -5,7 +5,7 @@
     "Versions": [
       {
         "Version": "0.1.0",
-        "Url": "https://github.com/clasherkasten/micro-vscode-theme/archive/0.1.0.zip".
+        "Url": "https://github.com/ClasherKasten/micro-vscode-theme/archive/refs/tags/0.1.0.zip",
         "Require": {
           "micro": ">=1.1.3"
         }
