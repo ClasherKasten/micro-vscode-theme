@@ -1,6 +1,7 @@
 [
   {
     "Name": "vscode-theme",
+    "Tags": ["colorscheme"],
     "Description": "A vscode theme for micro",
     "Versions": [
       {
